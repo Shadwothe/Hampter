@@ -14619,3 +14619,372 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2025.12.08-20.28.41:543][881]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Hamsti_Auto6
 [2025.12.08-20.28.41:543][881]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BP_Hamsti_Auto6AE2AD0B249D6CED6F93FD2BCA9545210.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Hamsti_Auto6.uasset'
 [2025.12.08-20.28.41:546][881]LogFileHelpers: Auto-saving content packages took 0.340
+[2025.12.08-20.29.42:359][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.08-20.29.43:658][459]LogSlate: Window 'Save Content' being destroyed
+[2025.12.08-20.29.43:684][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-20.29.43:826][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.12.08-20.29.43:843][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2025.12.08-20.29.43:845][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/ThirdPersonMap5D3CABCD4F0EA9BED992D598D5C6753E.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2025.12.08-20.29.43:869][459]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FJ/KQ8XCLVVRFICMCDBKARFD1
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/A6/IXTI2G9QXL4AU19J7Q2PW0
+[2025.12.08-20.29.43:869][459]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.08-20.29.43:901][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.12.08-20.29.43:933][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.12.08-20.29.43:962][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.08-20.29.43:974][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FJ/KQ8XCLVVRFICMCDBKARFD1
+[2025.12.08-20.29.43:974][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/KQ8XCLVVRFICMCDBKARFD1A5328527450A8DE9CC3523BD1F95588D.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FJ/KQ8XCLVVRFICMCDBKARFD1.uasset'
+[2025.12.08-20.29.43:995][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.891 ms (total: 861.360 ms)
+[2025.12.08-20.29.43:995][459]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FJ/KQ8XCLVVRFICMCDBKARFD1
+[2025.12.08-20.29.44:008][459]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.249
+[2025.12.08-20.29.44:008][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Hamsti/ABP_Hamsti] ([2] browsable assets)...
+[2025.12.08-20.29.44:008][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/ABP_Hamsti]
+[2025.12.08-20.29.44:008][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Hamsti/ABP_Hamsti" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/ABP_Hamsti.uasset" SILENT=true
+[2025.12.08-20.29.44:062][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/ABP_Hamsti
+[2025.12.08-20.29.44:062][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/ABP_Hamsti422DA5A84EB307FFABEB4D8BF855B1FE.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/ABP_Hamsti.uasset'
+[2025.12.08-20.29.44:079][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/AugenTest] ([1] browsable assets)...
+[2025.12.08-20.29.44:079][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/AugenTest]
+[2025.12.08-20.29.44:079][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Hamsti/AugenTest" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/AugenTest.uasset" SILENT=true
+[2025.12.08-20.29.44:091][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/AugenTest
+[2025.12.08-20.29.44:092][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/AugenTest401F87A745066905CB94D7AD1AEF6723.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/AugenTest.uasset'
+[2025.12.08-20.29.44:100][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/Black] ([1] browsable assets)...
+[2025.12.08-20.29.44:100][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/Black]
+[2025.12.08-20.29.44:100][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Hamsti/Black" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/Black.uasset" SILENT=true
+[2025.12.08-20.29.44:103][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/Black
+[2025.12.08-20.29.44:103][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BlackAF2275D44F1368F08B1AA59E6E8DC92F.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/Black.uasset'
+[2025.12.08-20.29.44:109][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Styles/BP_CommonButton] ([2] browsable assets)...
+[2025.12.08-20.29.44:109][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Styles/BP_CommonButton]
+[2025.12.08-20.29.44:109][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Styles/BP_CommonButton" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/BP_CommonButton.uasset" SILENT=true
+[2025.12.08-20.29.44:120][459]LogSavePackage: Moving output files for package: /Game/UI/Styles/BP_CommonButton
+[2025.12.08-20.29.44:122][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BP_CommonButton3BCD96B74235F7E608E7B791147E34D4.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/BP_CommonButton.uasset'
+[2025.12.08-20.29.44:123][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Styles/BP_CommonButtonStyle] ([2] browsable assets)...
+[2025.12.08-20.29.44:123][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Styles/BP_CommonButtonStyle]
+[2025.12.08-20.29.44:123][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Styles/BP_CommonButtonStyle" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/BP_CommonButtonStyle.uasset" SILENT=true
+[2025.12.08-20.29.44:129][459]LogSavePackage: Moving output files for package: /Game/UI/Styles/BP_CommonButtonStyle
+[2025.12.08-20.29.44:130][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BP_CommonButtonStyle28420CD54207591802187089C8887F2C.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/BP_CommonButtonStyle.uasset'
+[2025.12.08-20.29.44:132][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Styles/BP_CommonHoverText] ([2] browsable assets)...
+[2025.12.08-20.29.44:132][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Styles/BP_CommonHoverText]
+[2025.12.08-20.29.44:132][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Styles/BP_CommonHoverText" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/BP_CommonHoverText.uasset" SILENT=true
+[2025.12.08-20.29.44:136][459]LogSavePackage: Moving output files for package: /Game/UI/Styles/BP_CommonHoverText
+[2025.12.08-20.29.44:137][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BP_CommonHoverText182A0C844140BA22AD26C08650EFBB3E.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/BP_CommonHoverText.uasset'
+[2025.12.08-20.29.44:139][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Styles/BP_CommonNormalText] ([2] browsable assets)...
+[2025.12.08-20.29.44:139][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Styles/BP_CommonNormalText]
+[2025.12.08-20.29.44:139][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Styles/BP_CommonNormalText" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/BP_CommonNormalText.uasset" SILENT=true
+[2025.12.08-20.29.44:141][459]LogSavePackage: Moving output files for package: /Game/UI/Styles/BP_CommonNormalText
+[2025.12.08-20.29.44:142][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BP_CommonNormalText67B916234FE999EA3C7560A1DFE3A047.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/BP_CommonNormalText.uasset'
+[2025.12.08-20.29.44:143][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Styles/BP_CommonPressedText] ([2] browsable assets)...
+[2025.12.08-20.29.44:143][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Styles/BP_CommonPressedText]
+[2025.12.08-20.29.44:143][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Styles/BP_CommonPressedText" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/BP_CommonPressedText.uasset" SILENT=true
+[2025.12.08-20.29.44:146][459]LogSavePackage: Moving output files for package: /Game/UI/Styles/BP_CommonPressedText
+[2025.12.08-20.29.44:147][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BP_CommonPressedTextC3AE3F5C4B7512A7EDD8A494602EDC35.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/BP_CommonPressedText.uasset'
+[2025.12.08-20.29.44:150][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Styles/BP_Deafault_Styles] ([2] browsable assets)...
+[2025.12.08-20.29.44:150][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Styles/BP_Deafault_Styles]
+[2025.12.08-20.29.44:150][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Styles/BP_Deafault_Styles" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/BP_Deafault_Styles.uasset" SILENT=true
+[2025.12.08-20.29.44:151][459]LogSavePackage: Moving output files for package: /Game/UI/Styles/BP_Deafault_Styles
+[2025.12.08-20.29.44:152][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BP_Deafault_StylesE3AE167C45BBD5F01BBF2DA613D47268.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/BP_Deafault_Styles.uasset'
+[2025.12.08-20.29.44:155][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Hamsti] ([2] browsable assets)...
+[2025.12.08-20.29.44:155][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Hamsti]
+[2025.12.08-20.29.44:155][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Hamsti" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Blueprints/BP_Hamsti.uasset" SILENT=true
+[2025.12.08-20.29.44:166][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Hamsti
+[2025.12.08-20.29.44:166][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BP_HamstiE0252D5F4B65A4DA3E248189EBA66206.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Blueprints/BP_Hamsti.uasset'
+[2025.12.08-20.29.44:173][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_HUD] ([2] browsable assets)...
+[2025.12.08-20.29.44:173][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_HUD]
+[2025.12.08-20.29.44:173][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_HUD" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Blueprints/BP_HUD.uasset" SILENT=true
+[2025.12.08-20.29.44:187][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_HUD
+[2025.12.08-20.29.44:188][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BP_HUD15C92CE6441F0914CEECD098E6AB3BBA.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Blueprints/BP_HUD.uasset'
+[2025.12.08-20.29.44:197][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([3] browsable assets)...
+[2025.12.08-20.29.44:197][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.12.08-20.29.44:199][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.12.08-20.29.44:201][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BP_ThirdPersonCharacterA6E2B0AE42E7F2A0DF5C9A972807CAB0.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.12.08-20.29.44:211][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2025.12.08-20.29.44:211][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2025.12.08-20.29.44:214][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2025.12.08-20.29.44:215][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BP_ThirdPersonGameMode2FA643C748A1B65AA05FC0B39BD72B2D.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2025.12.08-20.29.44:219][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/LevelParts/BP_TriggerChecker] ([2] browsable assets)...
+[2025.12.08-20.29.44:219][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/LevelParts/BP_TriggerChecker]
+[2025.12.08-20.29.44:229][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/LevelParts/BP_TriggerChecker
+[2025.12.08-20.29.44:229][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BP_TriggerCheckerE11A915E40E1D988536431AF68377ED1.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Blueprints/LevelParts/BP_TriggerChecker.uasset'
+[2025.12.08-20.29.44:235][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BPI/BPI_HUD] ([2] browsable assets)...
+[2025.12.08-20.29.44:235][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BPI/BPI_HUD]
+[2025.12.08-20.29.44:235][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BPI/BPI_HUD" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Blueprints/BPI/BPI_HUD.uasset" SILENT=true
+[2025.12.08-20.29.44:237][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BPI/BPI_HUD
+[2025.12.08-20.29.44:237][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BPI_HUD24D07C96464C06A1714825B61D90F5C3.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Blueprints/BPI/BPI_HUD.uasset'
+[2025.12.08-20.29.44:249][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BPI/BPI_Reaction] ([2] browsable assets)...
+[2025.12.08-20.29.44:249][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BPI/BPI_Reaction]
+[2025.12.08-20.29.44:251][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BPI/BPI_Reaction
+[2025.12.08-20.29.44:251][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BPI_Reaction0CFF103A4E67C243B18D23B4AC2CF63F.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Blueprints/BPI/BPI_Reaction.uasset'
+[2025.12.08-20.29.44:257][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/Brown] ([1] browsable assets)...
+[2025.12.08-20.29.44:257][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/Brown]
+[2025.12.08-20.29.44:257][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Hamsti/Brown" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/Brown.uasset" SILENT=true
+[2025.12.08-20.29.44:260][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/Brown
+[2025.12.08-20.29.44:260][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BrownBC0302774B8B99B00A86878341A05460.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/Brown.uasset'
+[2025.12.08-20.29.44:262][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/BS1_IdleWalk] ([1] browsable assets)...
+[2025.12.08-20.29.44:263][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/BS1_IdleWalk]
+[2025.12.08-20.29.44:263][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Hamsti/BS1_IdleWalk" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/BS1_IdleWalk.uasset" SILENT=true
+[2025.12.08-20.29.44:264][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/BS1_IdleWalk
+[2025.12.08-20.29.44:265][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BS1_IdleWalk48188B8A4713ED3862B3BDA81C0E375D.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/BS1_IdleWalk.uasset'
+[2025.12.08-20.29.44:267][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/CAW_Main] ([2] browsable assets)...
+[2025.12.08-20.29.44:268][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/CAW_Main]
+[2025.12.08-20.29.44:268][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CAW_Main" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/CAW_Main.uasset" SILENT=true
+[2025.12.08-20.29.44:273][459]LogSavePackage: Moving output files for package: /Game/UI/CAW_Main
+[2025.12.08-20.29.44:274][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/CAW_MainE3CC36454994ECF85DAEBFA9FF102A5E.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/CAW_Main.uasset'
+[2025.12.08-20.29.44:277][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/CAW_MainMenu] ([2] browsable assets)...
+[2025.12.08-20.29.44:277][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/CAW_MainMenu]
+[2025.12.08-20.29.44:277][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CAW_MainMenu" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/CAW_MainMenu.uasset" SILENT=true
+[2025.12.08-20.29.44:296][459]LogSavePackage: Moving output files for package: /Game/UI/CAW_MainMenu
+[2025.12.08-20.29.44:297][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/CAW_MainMenuDDB54BA145270C9EBF706E8CD15BCD8F.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/CAW_MainMenu.uasset'
+[2025.12.08-20.29.44:299][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/CAW_Options] ([2] browsable assets)...
+[2025.12.08-20.29.44:299][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/CAW_Options]
+[2025.12.08-20.29.44:299][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CAW_Options" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/CAW_Options.uasset" SILENT=true
+[2025.12.08-20.29.44:309][459]LogSavePackage: Moving output files for package: /Game/UI/CAW_Options
+[2025.12.08-20.29.44:309][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/CAW_Options7AE2ED0647A47A82EE650BBEF7AF588B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/CAW_Options.uasset'
+[2025.12.08-20.29.44:319][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/CAW_Pause] ([2] browsable assets)...
+[2025.12.08-20.29.44:319][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/CAW_Pause]
+[2025.12.08-20.29.44:320][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CAW_Pause" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/CAW_Pause.uasset" SILENT=true
+[2025.12.08-20.29.44:337][459]LogSavePackage: Moving output files for package: /Game/UI/CAW_Pause
+[2025.12.08-20.29.44:338][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/CAW_Pause7D442701443E206B7D7B8B8001CE3967.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/CAW_Pause.uasset'
+[2025.12.08-20.29.44:340][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Styles/Christmas_Market] ([1] browsable assets)...
+[2025.12.08-20.29.44:340][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Styles/Christmas_Market]
+[2025.12.08-20.29.44:340][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Styles/Christmas_Market" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/Christmas_Market.uasset" SILENT=true
+[2025.12.08-20.29.44:342][459]LogSavePackage: Moving output files for package: /Game/UI/Styles/Christmas_Market
+[2025.12.08-20.29.44:343][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Christmas_Market18C0057A4CBBFF89EF241F96A3C193F1.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/Christmas_Market.uasset'
+[2025.12.08-20.29.44:345][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Styles/Christmas_Market_Font] ([1] browsable assets)...
+[2025.12.08-20.29.44:345][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Styles/Christmas_Market_Font]
+[2025.12.08-20.29.44:345][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Styles/Christmas_Market_Font" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/Christmas_Market_Font.uasset" SILENT=true
+[2025.12.08-20.29.44:347][459]LogSavePackage: Moving output files for package: /Game/UI/Styles/Christmas_Market_Font
+[2025.12.08-20.29.44:347][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Christmas_Market_Font435F6EE64D3305F7651820A8853D12BE.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/UI/Styles/Christmas_Market_Font.uasset'
+[2025.12.08-20.29.44:349][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/LevelParts/FL_utils] ([2] browsable assets)...
+[2025.12.08-20.29.44:350][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/LevelParts/FL_utils]
+[2025.12.08-20.29.44:353][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/LevelParts/FL_utils
+[2025.12.08-20.29.44:353][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/FL_utils8D8AD7D34E4D94C729C3D4B914DFF1DA.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Blueprints/LevelParts/FL_utils.uasset'
+[2025.12.08-20.29.44:370][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/HamstiRig] ([1] browsable assets)...
+[2025.12.08-20.29.44:370][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/HamstiRig]
+[2025.12.08-20.29.44:370][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Hamsti/HamstiRig" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/HamstiRig.uasset" SILENT=true
+[2025.12.08-20.29.44:443][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/HamstiRig
+[2025.12.08-20.29.44:443][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/HamstiRig7B66E524416C96BAEBD42D8883584226.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/HamstiRig.uasset'
+[2025.12.08-20.29.44:452][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/HamstiRig_Anim_rig_Fall] ([1] browsable assets)...
+[2025.12.08-20.29.44:452][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/HamstiRig_Anim_rig_Fall]
+[2025.12.08-20.29.44:508][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/HamstiRig_Anim_rig_Fall
+[2025.12.08-20.29.44:508][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/HamstiRig_Anim_rig_Fall119997E541D6DC8D32977CAFDB6A2435.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/HamstiRig_Anim_rig_Fall.uasset'
+[2025.12.08-20.29.44:515][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/HamstiRig_Anim_rig_Idle] ([1] browsable assets)...
+[2025.12.08-20.29.44:515][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/HamstiRig_Anim_rig_Idle]
+[2025.12.08-20.29.44:558][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/HamstiRig_Anim_rig_Idle
+[2025.12.08-20.29.44:558][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/HamstiRig_Anim_rig_Idle86CFB9C44B217E46CB192CB479923527.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/HamstiRig_Anim_rig_Idle.uasset'
+[2025.12.08-20.29.44:562][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/HamstiRig_Anim_rig_Walk] ([1] browsable assets)...
+[2025.12.08-20.29.44:562][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/HamstiRig_Anim_rig_Walk]
+[2025.12.08-20.29.44:607][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/HamstiRig_Anim_rig_Walk
+[2025.12.08-20.29.44:607][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/HamstiRig_Anim_rig_Walk86C29A764BE418D57B583782BD3AC251.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/HamstiRig_Anim_rig_Walk.uasset'
+[2025.12.08-20.29.44:610][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/HamstiRig_PhysicsAsset] ([1] browsable assets)...
+[2025.12.08-20.29.44:610][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/HamstiRig_PhysicsAsset]
+[2025.12.08-20.29.44:613][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/HamstiRig_PhysicsAsset
+[2025.12.08-20.29.44:613][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/HamstiRig_PhysicsAsset020102AE429C62BD738135B5E71E4409.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/HamstiRig_PhysicsAsset.uasset'
+[2025.12.08-20.29.44:616][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/HamstiRig_Skeleton] ([1] browsable assets)...
+[2025.12.08-20.29.44:616][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/HamstiRig_Skeleton]
+[2025.12.08-20.29.44:623][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/HamstiRig_Skeleton
+[2025.12.08-20.29.44:623][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/HamstiRig_SkeletonA6AC4EB14D05E2DC62A4A9A4F9ED8905.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/HamstiRig_Skeleton.uasset'
+[2025.12.08-20.29.44:625][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/Hellbraun] ([1] browsable assets)...
+[2025.12.08-20.29.44:625][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/Hellbraun]
+[2025.12.08-20.29.44:625][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Hamsti/Hellbraun" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/Hellbraun.uasset" SILENT=true
+[2025.12.08-20.29.44:629][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/Hellbraun
+[2025.12.08-20.29.44:629][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Hellbraun55EB279548F1E51F80D22E861241BE5A.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/Hellbraun.uasset'
+[2025.12.08-20.29.44:631][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/Actions/IA_Look] ([1] browsable assets)...
+[2025.12.08-20.29.44:631][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/Actions/IA_Look]
+[2025.12.08-20.29.44:631][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/Actions/IA_Look" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Input/Actions/IA_Look.uasset" SILENT=true
+[2025.12.08-20.29.44:633][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/Actions/IA_Look
+[2025.12.08-20.29.44:635][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/IA_LookF84815974BAB9C3C0EFD2F90525C427A.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Input/Actions/IA_Look.uasset'
+[2025.12.08-20.29.44:636][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Input/IMC_Default] ([1] browsable assets)...
+[2025.12.08-20.29.44:637][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Input/IMC_Default]
+[2025.12.08-20.29.44:637][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Input/IMC_Default" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Input/IMC_Default.uasset" SILENT=true
+[2025.12.08-20.29.44:641][459]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Input/IMC_Default
+[2025.12.08-20.29.44:642][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/IMC_Default9BCB9CD54490FA1740C27AA6B609E437.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/ThirdPerson/Input/IMC_Default.uasset'
+[2025.12.08-20.29.44:643][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/Pink] ([1] browsable assets)...
+[2025.12.08-20.29.44:643][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/Pink]
+[2025.12.08-20.29.44:643][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Hamsti/Pink" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/Pink.uasset" SILENT=true
+[2025.12.08-20.29.44:648][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/Pink
+[2025.12.08-20.29.44:648][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/PinkA0A8EDA94BF6434698C898AED665AA01.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/Pink.uasset'
+[2025.12.08-20.29.44:652][459]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FJ/KQ8XCLVVRFICMCDBKARFD1
+[2025.12.08-20.29.44:653][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/KQ8XCLVVRFICMCDBKARFD17DAE964146AD69E9E67766ACCF020F73.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/FJ/KQ8XCLVVRFICMCDBKARFD1.uasset'
+[2025.12.08-20.29.44:656][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/Rot] ([1] browsable assets)...
+[2025.12.08-20.29.44:656][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/Rot]
+[2025.12.08-20.29.44:656][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Hamsti/Rot" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/Rot.uasset" SILENT=true
+[2025.12.08-20.29.44:659][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/Rot
+[2025.12.08-20.29.44:659][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Rot511AD177413335066B546C888D8DA9AB.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/Rot.uasset'
+[2025.12.08-20.29.44:661][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Hamsti/weiß] ([1] browsable assets)...
+[2025.12.08-20.29.44:662][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Hamsti/weiß]
+[2025.12.08-20.29.44:662][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Hamsti/weiß" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/weiß.uasset" SILENT=true
+[2025.12.08-20.29.44:665][459]LogSavePackage: Moving output files for package: /Game/Characters/Hamsti/weiß
+[2025.12.08-20.29.44:665][459]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/weiß028AD0AF4546E768E87FABB4D63CA25B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Characters/Hamsti/weiß.uasset'
+[2025.12.08-20.29.44:682][459]LogFileHelpers: InternalPromptForCheckoutAndSave took 998.272 ms (total: 1.85 sec)
+[2025.12.08-20.29.44:769][459]LogStall: Shutdown...
+[2025.12.08-20.29.44:769][459]LogStall: Shutdown complete.
+[2025.12.08-20.29.44:973][459]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.44:973][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.45:154][459]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.12.08-20.29.45:155][459]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.45:155][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.45:375][459]LogSlate: Window 'Hampter - Unreal Editor' being destroyed
+[2025.12.08-20.29.45:380][459]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2025.12.08-20.29.48:578][459]LogContentValidation: Display: Starting to validate 41 assets
+[2025.12.08-20.29.48:578][459]LogContentValidation: Enabled validators:
+[2025.12.08-20.29.48:579][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.08-20.29.48:579][459]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.08-20.29.48:579][459]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.08-20.29.48:579][459]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.08-20.29.48:579][459]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.08-20.29.48:579][459]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.08-20.29.48:581][459]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.12.08-20.29.48:581][459]AssetCheck: /Game/Characters/Hamsti/ABP_Hamsti Validating asset
+[2025.12.08-20.29.48:581][459]AssetCheck: /Game/Characters/Hamsti/AugenTest Validating asset
+[2025.12.08-20.29.48:581][459]AssetCheck: /Game/Characters/Hamsti/Black Validating asset
+[2025.12.08-20.29.48:585][459]AssetCheck: /Game/UI/Styles/BP_CommonButton Validating asset
+[2025.12.08-20.29.48:586][459]AssetCheck: /Game/UI/Styles/BP_CommonButtonStyle Validating asset
+[2025.12.08-20.29.48:586][459]AssetCheck: /Game/UI/Styles/BP_CommonHoverText Validating asset
+[2025.12.08-20.29.48:586][459]AssetCheck: /Game/UI/Styles/BP_CommonNormalText Validating asset
+[2025.12.08-20.29.48:586][459]AssetCheck: /Game/UI/Styles/BP_CommonPressedText Validating asset
+[2025.12.08-20.29.48:586][459]AssetCheck: /Game/UI/Styles/BP_Deafault_Styles Validating asset
+[2025.12.08-20.29.48:586][459]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Hamsti Validating asset
+[2025.12.08-20.29.48:586][459]AssetCheck: /Game/ThirdPerson/Blueprints/BP_HUD Validating asset
+[2025.12.08-20.29.48:586][459]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.12.08-20.29.48:587][459]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.12.08-20.29.48:587][459]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.12.08-20.29.48:587][459]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2025.12.08-20.29.48:587][459]AssetCheck: /Game/ThirdPerson/Blueprints/LevelParts/BP_TriggerChecker Validating asset
+[2025.12.08-20.29.48:587][459]AssetCheck: /Game/ThirdPerson/Blueprints/BPI/BPI_HUD Validating asset
+[2025.12.08-20.29.48:587][459]AssetCheck: /Game/ThirdPerson/Blueprints/BPI/BPI_Reaction Validating asset
+[2025.12.08-20.29.48:587][459]AssetCheck: /Game/Characters/Hamsti/Brown Validating asset
+[2025.12.08-20.29.48:587][459]AssetCheck: /Game/Characters/Hamsti/BS1_IdleWalk Validating asset
+[2025.12.08-20.29.48:588][459]AssetCheck: /Game/UI/CAW_Main Validating asset
+[2025.12.08-20.29.48:589][459]AssetCheck: /Game/UI/CAW_MainMenu Validating asset
+[2025.12.08-20.29.48:597][459]AssetCheck: /Game/UI/CAW_Options Validating asset
+[2025.12.08-20.29.48:599][459]AssetCheck: /Game/UI/CAW_Pause Validating asset
+[2025.12.08-20.29.48:599][459]AssetCheck: /Game/UI/Styles/Christmas_Market Validating asset
+[2025.12.08-20.29.48:599][459]AssetCheck: /Game/UI/Styles/Christmas_Market_Font Validating asset
+[2025.12.08-20.29.48:599][459]AssetCheck: /Game/ThirdPerson/Blueprints/LevelParts/FL_utils Validating asset
+[2025.12.08-20.29.48:599][459]AssetCheck: /Game/Characters/Hamsti/HamstiRig Validating asset
+[2025.12.08-20.29.48:599][459]AssetCheck: /Game/Characters/Hamsti/HamstiRig_Anim_rig_Fall Validating asset
+[2025.12.08-20.29.48:599][459]AssetCheck: /Game/Characters/Hamsti/HamstiRig_Anim_rig_Idle Validating asset
+[2025.12.08-20.29.48:599][459]AssetCheck: /Game/Characters/Hamsti/HamstiRig_Anim_rig_Walk Validating asset
+[2025.12.08-20.29.48:601][459]AssetCheck: /Game/Characters/Hamsti/HamstiRig_PhysicsAsset Validating asset
+[2025.12.08-20.29.48:601][459]AssetCheck: /Game/Characters/Hamsti/HamstiRig_Skeleton Validating asset
+[2025.12.08-20.29.48:601][459]AssetCheck: /Game/Characters/Hamsti/Hellbraun Validating asset
+[2025.12.08-20.29.48:601][459]AssetCheck: /Game/ThirdPerson/Input/Actions/IA_Look Validating asset
+[2025.12.08-20.29.48:602][459]AssetCheck: /Game/ThirdPerson/Input/IMC_Default Validating asset
+[2025.12.08-20.29.48:602][459]AssetCheck: /Game/Characters/Hamsti/Pink Validating asset
+[2025.12.08-20.29.48:602][459]AssetCheck: /Game/Characters/Hamsti/Rot Validating asset
+[2025.12.08-20.29.48:602][459]AssetCheck: /Game/Characters/Hamsti/weiß Validating asset
+[2025.12.08-20.29.48:685][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.12.08-20.29.48:827][459]LogAutomationController: Ignoring very large delta of 6.50 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.12.08-20.29.48:829][459]Cmd: QUIT_EDITOR
+[2025.12.08-20.29.48:829][459]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.08-20.29.48:862][460]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.08-20.29.48:866][460]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.08-20.29.48:866][460]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.08-20.29.48:875][460]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.48:876][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.48:876][460]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.12.08-20.29.48:935][460]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.08-20.29.48:955][460]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.08-20.29.49:531][460]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:531][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:538][460]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:538][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:546][460]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:546][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:552][460]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:553][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:559][460]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:559][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:564][460]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:564][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:569][460]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:569][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:576][460]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:576][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:583][460]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:584][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:589][460]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:589][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:594][460]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:594][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:598][460]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:598][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:606][460]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:606][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:611][460]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:611][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:616][460]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:616][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:621][460]LogWorld: UWorld::CleanupWorld for World_85, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:621][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:627][460]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:627][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:633][460]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:633][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:639][460]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:639][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:647][460]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:647][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:653][460]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:654][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:660][460]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:661][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:667][460]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2025.12.08-20.29.49:667][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.08-20.29.49:694][460]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.08-20.29.49:711][460]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.12.08-20.29.49:711][460]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.12.08-20.29.49:711][460]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.12.08-20.29.50:229][460]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.08-20.29.50:229][460]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.08-20.29.50:229][460]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.12.08-20.29.50:231][460]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.08-20.29.50:231][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.08-20.29.50:249][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.08-20.29.50:279][460]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.08-20.29.50:281][460]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.08-20.29.50:300][460]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.08-20.29.50:301][460]LogExit: Preparing to exit.
+[2025.12.08-20.29.50:438][460]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2025.12.08-20.29.50:464][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:465][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:477][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:479][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:479][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:479][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:479][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:479][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:479][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:479][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:479][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:479][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:481][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:481][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:481][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:481][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:481][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:481][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:483][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:484][460]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.50:485][460]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.12.08-20.29.51:353][460]LogEditorDataStorage: Deinitializing
+[2025.12.08-20.29.52:139][460]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.08-20.29.52:395][460]LogExit: Editor shut down
+[2025.12.08-20.29.52:434][460]LogExit: Transaction tracking system shut down
+[2025.12.08-20.29.53:731][460]LogCore: Error: PropertyBag: Expecting RefCount to be zero on destructor, but it is 11.
+[2025.12.08-20.29.53:812][460]LogExit: Object subsystem successfully closed.
+[2025.12.08-20.29.53:850][460]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.08-20.29.54:652][460]LogMemoryProfiler: Shutdown
+[2025.12.08-20.29.54:653][460]LogNetworkingProfiler: Shutdown
+[2025.12.08-20.29.54:653][460]LoadingProfiler: Shutdown
+[2025.12.08-20.29.54:653][460]LogTimingProfiler: Shutdown
+[2025.12.08-20.29.56:028][460]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.08-20.29.56:031][460]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.12.08-20.29.56:032][460]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.08-20.29.56:068][460]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.08-20.29.56:068][460]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C5C4048-4820-7422-38A1-BB9A136C1009%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=aa32f54e484596e89c8cef83a1613525%7C93831e512c7a40879d3531ebc67f9e86%7Ccca4daa8-08fe-4487-874a-94f8289eba67&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.08-20.29.57:194][460]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.08-20.29.57:195][460]RenderDocPlugin: plugin has been unloaded.
+[2025.12.08-20.29.57:255][460]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.08-20.29.57:256][460]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.08-20.29.57:258][460]LogPakFile: Destroying PakPlatformFile
