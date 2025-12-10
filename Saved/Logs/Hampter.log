@@ -5770,3 +5770,270 @@ To disable this warning set CommonUI.Debug.CheckGameViewportClientValid=0 under 
 [2025.12.10-15.23.18:562][868]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Käffig/Holz2_Auto6
 [2025.12.10-15.23.18:562][868]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Holz2_Auto6688080B543122CA0438755963163D598.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Autosaves/Game/Assets/Käffig/Holz2_Auto6.uasset'
 [2025.12.10-15.23.18:563][868]LogFileHelpers: Auto-saving content packages took 0.191
+[2025.12.10-15.24.04:892][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.10-15.24.06:642][128]LogSlate: Window 'Save Content' being destroyed
+[2025.12.10-15.24.06:667][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-15.24.06:718][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HQ/H0YJ1E6KNZSJ7BHWB0BYGR
+[2025.12.10-15.24.06:719][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/H0YJ1E6KNZSJ7BHWB0BYGR1BED0C0E470E70517ABB488404498488.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/HQ/H0YJ1E6KNZSJ7BHWB0BYGR.uasset'
+[2025.12.10-15.24.06:721][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Wohnraum/Bild] ([1] browsable assets)...
+[2025.12.10-15.24.06:721][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Wohnraum/Bild]
+[2025.12.10-15.24.06:721][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wohnraum/Bild" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Bild.uasset" SILENT=true
+[2025.12.10-15.24.06:724][128]LogSavePackage: Moving output files for package: /Game/Assets/Wohnraum/Bild
+[2025.12.10-15.24.06:725][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Bild8A829BF14D87CFDC5A07FD9270131261.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Bild.uasset'
+[2025.12.10-15.24.06:730][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/H2/L0HWK07GU51Z9P5RF03FJP
+[2025.12.10-15.24.06:731][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/L0HWK07GU51Z9P5RF03FJPB67221F645B2915E2316B283DB3AC6B6.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/H2/L0HWK07GU51Z9P5RF03FJP.uasset'
+[2025.12.10-15.24.06:734][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MW/V4F0H4X9BJJLX3234G3WBI
+[2025.12.10-15.24.06:736][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/V4F0H4X9BJJLX3234G3WBI0CCCC1C2454908C7ED8357B7C80138B1.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/MW/V4F0H4X9BJJLX3234G3WBI.uasset'
+[2025.12.10-15.24.06:739][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/2K/MMGQNLBJVFSKLSPXNROIPQ
+[2025.12.10-15.24.06:740][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/MMGQNLBJVFSKLSPXNROIPQF4241723494B9DAA6C3E8D8D16CFE60D.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/2K/MMGQNLBJVFSKLSPXNROIPQ.uasset'
+[2025.12.10-15.24.06:744][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/18/7AZBV7IQ97I2X68RIM4WBQ
+[2025.12.10-15.24.06:744][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/7AZBV7IQ97I2X68RIM4WBQ7E06527A4A3DFC4046CAE98DBF2B21AC.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/18/7AZBV7IQ97I2X68RIM4WBQ.uasset'
+[2025.12.10-15.24.06:748][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K2/Z7OFMD0MU47EGBSK07P9T6
+[2025.12.10-15.24.06:749][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Z7OFMD0MU47EGBSK07P9T6FA8008224B4A476B3A940CAC601DCACB.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/K2/Z7OFMD0MU47EGBSK07P9T6.uasset'
+[2025.12.10-15.24.06:750][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Wohnraum/Fenster] ([1] browsable assets)...
+[2025.12.10-15.24.06:751][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Wohnraum/Fenster]
+[2025.12.10-15.24.06:751][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wohnraum/Fenster" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Fenster.uasset" SILENT=true
+[2025.12.10-15.24.06:754][128]LogSavePackage: Moving output files for package: /Game/Assets/Wohnraum/Fenster
+[2025.12.10-15.24.06:754][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Fenster90FBCB7045A953A3F988439353BABB53.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Fenster.uasset'
+[2025.12.10-15.24.06:758][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CZ/7N8Z5CLP1SAFHZ5C0UWR6Q
+[2025.12.10-15.24.06:758][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/7N8Z5CLP1SAFHZ5C0UWR6Q5A40B03648B7F67209CC9F95F897EBB0.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/CZ/7N8Z5CLP1SAFHZ5C0UWR6Q.uasset'
+[2025.12.10-15.24.06:760][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Wohnraum/Futter] ([1] browsable assets)...
+[2025.12.10-15.24.06:760][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Wohnraum/Futter]
+[2025.12.10-15.24.06:760][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wohnraum/Futter" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Futter.uasset" SILENT=true
+[2025.12.10-15.24.06:763][128]LogSavePackage: Moving output files for package: /Game/Assets/Wohnraum/Futter
+[2025.12.10-15.24.06:764][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Futter5869B7934F601A8AF010BA9D44D75153.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Futter.uasset'
+[2025.12.10-15.24.06:766][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Käffig/Futternapf] ([1] browsable assets)...
+[2025.12.10-15.24.06:766][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Käffig/Futternapf]
+[2025.12.10-15.24.06:766][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Käffig/Futternapf" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Käffig/Futternapf.uasset" SILENT=true
+[2025.12.10-15.24.06:769][128]LogSavePackage: Moving output files for package: /Game/Assets/Käffig/Futternapf
+[2025.12.10-15.24.06:769][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/FutternapfD34A39124AC6C3C69B6B749690522D1E.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Käffig/Futternapf.uasset'
+[2025.12.10-15.24.06:772][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IE/FVMZIZXE30IKDHPQFG4N3H
+[2025.12.10-15.24.06:772][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/FVMZIZXE30IKDHPQFG4N3HB2AE6EF942E35F10AECA369B07D225C9.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/IE/FVMZIZXE30IKDHPQFG4N3H.uasset'
+[2025.12.10-15.24.06:775][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Wohnraum/GrossesGeschenk] ([1] browsable assets)...
+[2025.12.10-15.24.06:775][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Wohnraum/GrossesGeschenk]
+[2025.12.10-15.24.06:775][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wohnraum/GrossesGeschenk" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/GrossesGeschenk.uasset" SILENT=true
+[2025.12.10-15.24.06:780][128]LogSavePackage: Moving output files for package: /Game/Assets/Wohnraum/GrossesGeschenk
+[2025.12.10-15.24.06:780][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/GrossesGeschenkFEE1B1A64FAD9424280F18B587365C9B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/GrossesGeschenk.uasset'
+[2025.12.10-15.24.06:784][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JA/PWLDQL2WU8TTJOMA8JYXJE
+[2025.12.10-15.24.06:784][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/PWLDQL2WU8TTJOMA8JYXJE9938C17B45C929ECD442BD9CC66BD5B9.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/JA/PWLDQL2WU8TTJOMA8JYXJE.uasset'
+[2025.12.10-15.24.06:786][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Käffig/Holz] ([1] browsable assets)...
+[2025.12.10-15.24.06:786][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Käffig/Holz]
+[2025.12.10-15.24.06:786][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Käffig/Holz" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Käffig/Holz.uasset" SILENT=true
+[2025.12.10-15.24.06:789][128]LogSavePackage: Moving output files for package: /Game/Assets/Käffig/Holz
+[2025.12.10-15.24.06:789][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/HolzA63582AE4C990ADC8283EAA5DBABC91A.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Käffig/Holz.uasset'
+[2025.12.10-15.24.06:791][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Wohnraum/Holz] ([1] browsable assets)...
+[2025.12.10-15.24.06:791][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Wohnraum/Holz]
+[2025.12.10-15.24.06:791][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wohnraum/Holz" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Holz.uasset" SILENT=true
+[2025.12.10-15.24.06:794][128]LogSavePackage: Moving output files for package: /Game/Assets/Wohnraum/Holz
+[2025.12.10-15.24.06:794][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Holz0062A545402E5F0D39590C823FC4E80F.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Holz.uasset'
+[2025.12.10-15.24.06:796][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Käffig/Holz2] ([1] browsable assets)...
+[2025.12.10-15.24.06:796][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Käffig/Holz2]
+[2025.12.10-15.24.06:796][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Käffig/Holz2" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Käffig/Holz2.uasset" SILENT=true
+[2025.12.10-15.24.06:799][128]LogSavePackage: Moving output files for package: /Game/Assets/Käffig/Holz2
+[2025.12.10-15.24.06:799][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Holz232CED5D64F2036DA081DB2861CE614BD.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Käffig/Holz2.uasset'
+[2025.12.10-15.24.06:803][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/ML/NBJ3LXN3EYGZ4MU6IO5BO9
+[2025.12.10-15.24.06:804][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/NBJ3LXN3EYGZ4MU6IO5BO9113307C146A304A4DE93C2A983AD870C.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/ML/NBJ3LXN3EYGZ4MU6IO5BO9.uasset'
+[2025.12.10-15.24.06:814][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0Y/N2VL0D06WA4U7HMAB5BAN3
+[2025.12.10-15.24.06:814][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/N2VL0D06WA4U7HMAB5BAN38C25D0984F68B390564F0AAD80160CDE.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0Y/N2VL0D06WA4U7HMAB5BAN3.uasset'
+[2025.12.10-15.24.06:814][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DZ/D500L12UAKQ1P6AS0J0JLR
+[2025.12.10-15.24.06:814][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/D500L12UAKQ1P6AS0J0JLRE81B197D410788D200F54685B4B891C2.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/DZ/D500L12UAKQ1P6AS0J0JLR.uasset'
+[2025.12.10-15.24.06:818][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Wohnraum/KleinesGeschenk] ([1] browsable assets)...
+[2025.12.10-15.24.06:818][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Wohnraum/KleinesGeschenk]
+[2025.12.10-15.24.06:818][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wohnraum/KleinesGeschenk" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/KleinesGeschenk.uasset" SILENT=true
+[2025.12.10-15.24.06:843][128]LogSavePackage: Moving output files for package: /Game/Assets/Wohnraum/KleinesGeschenk
+[2025.12.10-15.24.06:843][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/KleinesGeschenk8DE1DE974BE38DEC96A933BA0A68D72B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/KleinesGeschenk.uasset'
+[2025.12.10-15.24.06:843][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PB/Z8IZH742AGN41LAYQI1OKH
+[2025.12.10-15.24.06:843][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Z8IZH742AGN41LAYQI1OKH9EE01E644CC1CB6BFE063F8E3A282812.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PB/Z8IZH742AGN41LAYQI1OKH.uasset'
+[2025.12.10-15.24.06:843][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/GL/51MGIHL39SU2WB91ZPLKRA
+[2025.12.10-15.24.06:843][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/51MGIHL39SU2WB91ZPLKRA93C543AE4563EE04A99D1D95BF1F6321.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/GL/51MGIHL39SU2WB91ZPLKRA.uasset'
+[2025.12.10-15.24.06:843][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Wohnraum/MittleresGeschenk] ([1] browsable assets)...
+[2025.12.10-15.24.06:843][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Wohnraum/MittleresGeschenk]
+[2025.12.10-15.24.06:843][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wohnraum/MittleresGeschenk" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/MittleresGeschenk.uasset" SILENT=true
+[2025.12.10-15.24.06:843][128]LogSavePackage: Moving output files for package: /Game/Assets/Wohnraum/MittleresGeschenk
+[2025.12.10-15.24.06:843][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/MittleresGeschenk9D9702114410660F7AC251ACD56087FE.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/MittleresGeschenk.uasset'
+[2025.12.10-15.24.06:859][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LF/9V8QKE4J4ZB3HAG0KLEO2W
+[2025.12.10-15.24.06:859][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/9V8QKE4J4ZB3HAG0KLEO2WCD34E9914261DFAA43821FAFEF59380D.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/LF/9V8QKE4J4ZB3HAG0KLEO2W.uasset'
+[2025.12.10-15.24.06:859][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DI/BLXCBB2Y5M2ZM4I8V7C5SC
+[2025.12.10-15.24.06:860][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BLXCBB2Y5M2ZM4I8V7C5SC43DA1D904D00E454C8BBEBB9CACA469D.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DI/BLXCBB2Y5M2ZM4I8V7C5SC.uasset'
+[2025.12.10-15.24.06:860][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Wohnraum/OfenMitTV] ([1] browsable assets)...
+[2025.12.10-15.24.06:860][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Wohnraum/OfenMitTV]
+[2025.12.10-15.24.06:860][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wohnraum/OfenMitTV" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/OfenMitTV.uasset" SILENT=true
+[2025.12.10-15.24.06:902][128]LogSavePackage: Moving output files for package: /Game/Assets/Wohnraum/OfenMitTV
+[2025.12.10-15.24.06:902][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/OfenMitTVDFAF04F140B02924F4FD3ABC4321A89B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/OfenMitTV.uasset'
+[2025.12.10-15.24.06:908][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AU/QVK8ULRS00HEEVIT674WIN
+[2025.12.10-15.24.06:908][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/QVK8ULRS00HEEVIT674WIN017ECF0E42C83BA9C32C308A9C606BBE.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AU/QVK8ULRS00HEEVIT674WIN.uasset'
+[2025.12.10-15.24.06:918][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/TZ/AKK8P9TD0HL4F1E5ZRJK7E
+[2025.12.10-15.24.06:918][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/AKK8P9TD0HL4F1E5ZRJK7EB95B68404F68845CCBAB8D94D8141638.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/TZ/AKK8P9TD0HL4F1E5ZRJK7E.uasset'
+[2025.12.10-15.24.06:923][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/ML/ADB1CG9E23ERI97KXJTVEF
+[2025.12.10-15.24.06:925][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/ADB1CG9E23ERI97KXJTVEF9B0C2BC64C59CC616BF2F2B588CF4200.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/ML/ADB1CG9E23ERI97KXJTVEF.uasset'
+[2025.12.10-15.24.06:927][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Käffig/Rolle_Assets] ([1] browsable assets)...
+[2025.12.10-15.24.06:927][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Käffig/Rolle_Assets]
+[2025.12.10-15.24.06:927][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Käffig/Rolle_Assets" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Käffig/Rolle_Assets.uasset" SILENT=true
+[2025.12.10-15.24.06:930][128]LogSavePackage: Moving output files for package: /Game/Assets/Käffig/Rolle_Assets
+[2025.12.10-15.24.06:932][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Rolle_Assets9B3F6C554BD97E9BDC574F99DACCE214.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Käffig/Rolle_Assets.uasset'
+[2025.12.10-15.24.06:935][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WI/74KH08LNFNUOW6Z1FZYD0J
+[2025.12.10-15.24.06:937][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/74KH08LNFNUOW6Z1FZYD0J68A11A5347F5441E61FA73ACFCF10FD4.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WI/74KH08LNFNUOW6Z1FZYD0J.uasset'
+[2025.12.10-15.24.06:951][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/UD/PGZNOP4AZ5OOSTP7DHU3IV
+[2025.12.10-15.24.06:951][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/PGZNOP4AZ5OOSTP7DHU3IVC0C96FD34DCE5C2BDF90D18C7A5C4123.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/UD/PGZNOP4AZ5OOSTP7DHU3IV.uasset'
+[2025.12.10-15.24.06:952][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ED/078HN7WSED493M6RI6T9E6
+[2025.12.10-15.24.06:952][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/078HN7WSED493M6RI6T9E65C5C8A9D4F9512D28AA4F59CC6CDC4CF.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ED/078HN7WSED493M6RI6T9E6.uasset'
+[2025.12.10-15.24.06:957][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9J/A8RUL0MJI3YI5QGEROM4VD
+[2025.12.10-15.24.06:957][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/A8RUL0MJI3YI5QGEROM4VD7349BC804BACF58C4241BDAA076FD25D.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/9J/A8RUL0MJI3YI5QGEROM4VD.uasset'
+[2025.12.10-15.24.06:962][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/KA/9FRYJXM9NU0Y25RRX6AFMV
+[2025.12.10-15.24.06:962][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/9FRYJXM9NU0Y25RRX6AFMV28FD8E5941489E7D344B108E6BDEBEF5.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/KA/9FRYJXM9NU0Y25RRX6AFMV.uasset'
+[2025.12.10-15.24.06:967][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LI/VBNBI5IBKC2YH8YAOL8M83
+[2025.12.10-15.24.06:967][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/VBNBI5IBKC2YH8YAOL8M83D5DC8EF54564A046FDA0078A7181CAF8.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/LI/VBNBI5IBKC2YH8YAOL8M83.uasset'
+[2025.12.10-15.24.06:971][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR
+[2025.12.10-15.24.06:973][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/BY1DA5CRGQSAMOTK8RA8KRFA5A327645D9FD7635C52E92E9DBCEA9.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset'
+[2025.12.10-15.24.06:977][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q
+[2025.12.10-15.24.06:979][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/JNKFA4X9LRMSF343ESPF6QB4A0187444519D5BF0B221B2A145B8A3.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset'
+[2025.12.10-15.24.06:983][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/Q0/123MNKDIPNQ9G7RTZJ067W
+[2025.12.10-15.24.06:983][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/123MNKDIPNQ9G7RTZJ067W7EBCAF5648C617E4A860BEB0B9673BD6.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/Q0/123MNKDIPNQ9G7RTZJ067W.uasset'
+[2025.12.10-15.24.06:988][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UU/RCST3P4RM7GY6T388I3CLH
+[2025.12.10-15.24.06:989][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/RCST3P4RM7GY6T388I3CLH72C9352F4BA2FC3BBB6568966BA9FC27.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/UU/RCST3P4RM7GY6T388I3CLH.uasset'
+[2025.12.10-15.24.06:994][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/X1/EOPLOX1B3TO9ONRYQDZSWA
+[2025.12.10-15.24.06:994][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/EOPLOX1B3TO9ONRYQDZSWAB9DCBC0348B1912D85BE15BEFC6EF8FD.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/X1/EOPLOX1B3TO9ONRYQDZSWA.uasset'
+[2025.12.10-15.24.06:997][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Wohnraum/Teppich] ([1] browsable assets)...
+[2025.12.10-15.24.06:997][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Wohnraum/Teppich]
+[2025.12.10-15.24.06:997][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wohnraum/Teppich" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Teppich.uasset" SILENT=true
+[2025.12.10-15.24.07:001][128]LogSavePackage: Moving output files for package: /Game/Assets/Wohnraum/Teppich
+[2025.12.10-15.24.07:001][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Teppich800909674BF06123F21F74AF59A9AA8A.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Teppich.uasset'
+[2025.12.10-15.24.07:006][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/M4/5TF6DODKQPEZYBEKC78ROT
+[2025.12.10-15.24.07:006][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/5TF6DODKQPEZYBEKC78ROTF4FA95454A74C5D9B9E2BCAC5ECFE599.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/M4/5TF6DODKQPEZYBEKC78ROT.uasset'
+[2025.12.10-15.24.07:009][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/42/M84W4GNDSQ2TW001I2UKOS
+[2025.12.10-15.24.07:011][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/M84W4GNDSQ2TW001I2UKOS124F7F9F4E686D4D4AEEBEAB8CF448C2.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/42/M84W4GNDSQ2TW001I2UKOS.uasset'
+[2025.12.10-15.24.07:016][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/6B/KNR9Z0MU8FK70G0IDHUZVS
+[2025.12.10-15.24.07:016][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/KNR9Z0MU8FK70G0IDHUZVSF49F3D8344725DB5B89F1396AFB70EE8.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/6B/KNR9Z0MU8FK70G0IDHUZVS.uasset'
+[2025.12.10-15.24.07:019][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Wohnraum/Tür] ([1] browsable assets)...
+[2025.12.10-15.24.07:019][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Wohnraum/Tür]
+[2025.12.10-15.24.07:019][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wohnraum/Tür" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Tür.uasset" SILENT=true
+[2025.12.10-15.24.07:046][128]LogSavePackage: Moving output files for package: /Game/Assets/Wohnraum/Tür
+[2025.12.10-15.24.07:046][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/TürC4C656A9459B518124DF0F91DAC58E83.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Tür.uasset'
+[2025.12.10-15.24.07:050][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DW/3VPMODLX8TOTVEJC37ZD5Z
+[2025.12.10-15.24.07:051][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/3VPMODLX8TOTVEJC37ZD5Z21B0D87E4E14ABC071B700A4FBB5CC7D.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/DW/3VPMODLX8TOTVEJC37ZD5Z.uasset'
+[2025.12.10-15.24.07:054][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CX/WHSQE6HCBVHB9QZUXFDE63
+[2025.12.10-15.24.07:054][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/WHSQE6HCBVHB9QZUXFDE6381E1AEB146C7E7B34BDD5C8FF55B0836.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CX/WHSQE6HCBVHB9QZUXFDE63.uasset'
+[2025.12.10-15.24.07:060][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y8/GG9CNLCRIM1WJYWNW7YSK7
+[2025.12.10-15.24.07:060][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/GG9CNLCRIM1WJYWNW7YSK7074F6E26430F51079A3FB694B76B19AA.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y8/GG9CNLCRIM1WJYWNW7YSK7.uasset'
+[2025.12.10-15.24.07:061][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Wohnraum/Uhr__2_] ([1] browsable assets)...
+[2025.12.10-15.24.07:062][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Wohnraum/Uhr__2_]
+[2025.12.10-15.24.07:062][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wohnraum/Uhr__2_" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Uhr__2_.uasset" SILENT=true
+[2025.12.10-15.24.07:066][128]LogSavePackage: Moving output files for package: /Game/Assets/Wohnraum/Uhr__2_
+[2025.12.10-15.24.07:066][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/Uhr__2_860B527149E889F23DDE8B9FA4A52A8B.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/Uhr__2_.uasset'
+[2025.12.10-15.24.07:070][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L3/VFW2PBPDU14E0OKIFLQ8G9
+[2025.12.10-15.24.07:070][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/VFW2PBPDU14E0OKIFLQ8G9A2EFFB8743195FEBB3FE2D86EA556171.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L3/VFW2PBPDU14E0OKIFLQ8G9.uasset'
+[2025.12.10-15.24.07:072][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Wohnraum/vase] ([1] browsable assets)...
+[2025.12.10-15.24.07:072][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Wohnraum/vase]
+[2025.12.10-15.24.07:072][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Wohnraum/vase" FILE="C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/vase.uasset" SILENT=true
+[2025.12.10-15.24.07:076][128]LogSavePackage: Moving output files for package: /Game/Assets/Wohnraum/vase
+[2025.12.10-15.24.07:076][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/vase05CE0408452C7C89B6F9FD9C111185FB.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/Assets/Wohnraum/vase.uasset'
+[2025.12.10-15.24.07:080][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Z8/0EODG2I4GUAT58QI1BU0EM
+[2025.12.10-15.24.07:081][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/0EODG2I4GUAT58QI1BU0EM6381B30C4AD3D5C8E1E1ADAFB86230FA.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Z8/0EODG2I4GUAT58QI1BU0EM.uasset'
+[2025.12.10-15.24.07:086][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/QG/GGOM2A5XQUUKSK4AN46TG6
+[2025.12.10-15.24.07:087][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/GGOM2A5XQUUKSK4AN46TG6FBBAC7E24FD1BE551A00E3BA585BD2F1.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/QG/GGOM2A5XQUUKSK4AN46TG6.uasset'
+[2025.12.10-15.24.07:091][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/RN/7WF524ZPC7214ODXK8UV5N
+[2025.12.10-15.24.07:091][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/7WF524ZPC7214ODXK8UV5NA19D01BC4F3CFA0862D046907F3F936A.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/RN/7WF524ZPC7214ODXK8UV5N.uasset'
+[2025.12.10-15.24.07:095][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/XC/YUP878KNYKVE3D3ZOVWW77
+[2025.12.10-15.24.07:096][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/YUP878KNYKVE3D3ZOVWW7775517A094DBE7673BDA151840A8A72EF.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/XC/YUP878KNYKVE3D3ZOVWW77.uasset'
+[2025.12.10-15.24.07:100][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LF/YTW6COG1XZ5Q1Y2LMHI3BN
+[2025.12.10-15.24.07:102][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/YTW6COG1XZ5Q1Y2LMHI3BN7AC8CC8D45E71270BD45ECAEDF3AD4D5.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/LF/YTW6COG1XZ5Q1Y2LMHI3BN.uasset'
+[2025.12.10-15.24.07:107][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4I/RIKB9NYZXPZGXKTQ53GZGY
+[2025.12.10-15.24.07:108][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/RIKB9NYZXPZGXKTQ53GZGY75C7504149C69428E2E91D8AF3D79143.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/4I/RIKB9NYZXPZGXKTQ53GZGY.uasset'
+[2025.12.10-15.24.07:116][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/O9/W5MBJRGXU5EHJ4AEGZQ0EC
+[2025.12.10-15.24.07:117][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/W5MBJRGXU5EHJ4AEGZQ0EC1529102A481C260A74829A8E85E126C1.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/O9/W5MBJRGXU5EHJ4AEGZQ0EC.uasset'
+[2025.12.10-15.24.07:122][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KQ/5ZREDHN57C3MEO8LIQV0V8
+[2025.12.10-15.24.07:123][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/5ZREDHN57C3MEO8LIQV0V8D2FDE466424BE860F8191BB8C3AE76D2.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KQ/5ZREDHN57C3MEO8LIQV0V8.uasset'
+[2025.12.10-15.24.07:127][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/MH/L3AEGLLALH22D5A0K5Y7AP
+[2025.12.10-15.24.07:129][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/L3AEGLLALH22D5A0K5Y7APCFC8C0464414588EA1BEA982E4988E98.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/MH/L3AEGLLALH22D5A0K5Y7AP.uasset'
+[2025.12.10-15.24.07:133][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7X/0KIVCWB1AT04KLXHA8IZ0Q
+[2025.12.10-15.24.07:134][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/0KIVCWB1AT04KLXHA8IZ0Q030BC2EE46B767FBD4E0E997109AFC68.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/7X/0KIVCWB1AT04KLXHA8IZ0Q.uasset'
+[2025.12.10-15.24.07:138][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/NK/KEPVCWJJ8K2685A8YWB610
+[2025.12.10-15.24.07:138][128]LogSavePackage: Moving 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Saved/KEPVCWJJ8K2685A8YWB61011F203984B65825BF8CFDF8E22097444.tmp' to 'C:/Users/User/Documents/Unreal Projects/Hampter/Hampter/Hampter/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/NK/KEPVCWJJ8K2685A8YWB610.uasset'
+[2025.12.10-15.24.07:155][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 487.600 ms (total: 4.02 sec)
+[2025.12.10-15.24.07:286][128]LogStall: Shutdown...
+[2025.12.10-15.24.07:286][128]LogStall: Shutdown complete.
+[2025.12.10-15.24.07:391][128]LogSlate: Window 'Hampter - Unreal Editor' being destroyed
+[2025.12.10-15.24.08:149][128]LogContentValidation: Display: Starting to validate 64 assets
+[2025.12.10-15.24.08:149][128]LogContentValidation: Enabled validators:
+[2025.12.10-15.24.08:149][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-15.24.08:149][128]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-15.24.08:149][128]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-15.24.08:149][128]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-15.24.08:149][128]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-15.24.08:149][128]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-15.24.08:150][128]AssetCheck: /Game/Assets/Wohnraum/Bild Validating asset
+[2025.12.10-15.24.08:150][128]AssetCheck: /Game/Assets/Wohnraum/Fenster Validating asset
+[2025.12.10-15.24.08:150][128]AssetCheck: /Game/Assets/Wohnraum/Futter Validating asset
+[2025.12.10-15.24.08:150][128]AssetCheck: /Game/Assets/Käffig/Futternapf Validating asset
+[2025.12.10-15.24.08:150][128]AssetCheck: /Game/Assets/Wohnraum/GrossesGeschenk Validating asset
+[2025.12.10-15.24.08:150][128]AssetCheck: /Game/Assets/Käffig/Holz Validating asset
+[2025.12.10-15.24.08:150][128]AssetCheck: /Game/Assets/Wohnraum/Holz Validating asset
+[2025.12.10-15.24.08:151][128]AssetCheck: /Game/Assets/Käffig/Holz2 Validating asset
+[2025.12.10-15.24.08:151][128]AssetCheck: /Game/Assets/Wohnraum/KleinesGeschenk Validating asset
+[2025.12.10-15.24.08:151][128]AssetCheck: /Game/Assets/Wohnraum/MittleresGeschenk Validating asset
+[2025.12.10-15.24.08:151][128]AssetCheck: /Game/Assets/Wohnraum/OfenMitTV Validating asset
+[2025.12.10-15.24.08:151][128]AssetCheck: /Game/Assets/Käffig/Rolle_Assets Validating asset
+[2025.12.10-15.24.08:151][128]AssetCheck: /Game/Assets/Wohnraum/Teppich Validating asset
+[2025.12.10-15.24.08:151][128]AssetCheck: /Game/Assets/Wohnraum/Tür Validating asset
+[2025.12.10-15.24.08:151][128]AssetCheck: /Game/Assets/Wohnraum/Uhr__2_ Validating asset
+[2025.12.10-15.24.08:151][128]AssetCheck: /Game/Assets/Wohnraum/vase Validating asset
+[2025.12.10-15.24.08:151][128]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2025.12.10-15.24.08:163][128]Cmd: QUIT_EDITOR
+[2025.12.10-15.24.08:163][128]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.10-15.24.08:181][129]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.10-15.24.08:182][129]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.10-15.24.08:182][129]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.10-15.24.08:193][129]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-15.24.08:194][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-15.24.08:194][129]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2025.12.10-15.24.08:239][129]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.12.10-15.24.08:243][129]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.10-15.24.08:250][129]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.10-15.24.08:268][129]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-15.24.08:268][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-15.24.08:268][129]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-15.24.08:268][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-15.24.08:270][129]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-15.24.08:271][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-15.24.08:271][129]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.12.10-15.24.08:271][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.10-15.24.08:284][129]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.10-15.24.08:292][129]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.12.10-15.24.08:292][129]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.12.10-15.24.08:292][129]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.12.10-15.24.08:713][129]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.10-15.24.08:713][129]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.10-15.24.08:713][129]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2025.12.10-15.24.08:714][129]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.10-15.24.08:714][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.10-15.24.08:718][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.10-15.24.08:730][129]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.10-15.24.08:731][129]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.10-15.24.08:732][129]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2025.12.10-15.24.08:738][129]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.10-15.24.08:738][129]LogExit: Preparing to exit.
+[2025.12.10-15.24.08:817][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.12.10-15.24.09:668][129]LogEditorDataStorage: Deinitializing
+[2025.12.10-15.24.09:950][129]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.10-15.24.10:054][129]LogExit: Editor shut down
+[2025.12.10-15.24.10:070][129]LogExit: Transaction tracking system shut down
+[2025.12.10-15.24.10:680][129]LogExit: Object subsystem successfully closed.
+[2025.12.10-15.24.10:751][129]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.10-15.24.11:713][129]LogMemoryProfiler: Shutdown
+[2025.12.10-15.24.11:715][129]LogNetworkingProfiler: Shutdown
+[2025.12.10-15.24.11:715][129]LoadingProfiler: Shutdown
+[2025.12.10-15.24.11:716][129]LogTimingProfiler: Shutdown
+[2025.12.10-15.24.12:279][129]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.10-15.24.12:283][129]RenderDocPlugin: plugin has been unloaded.
+[2025.12.10-15.24.12:847][129]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.10-15.24.12:889][129]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.10-15.24.12:889][129]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE730ECB0-4ACB-78DA-5320-628983A9770F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=aa32f54e484596e89c8cef83a1613525%7C93831e512c7a40879d3531ebc67f9e86%7Ccca4daa8-08fe-4487-874a-94f8289eba67&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.10-15.24.12:901][129]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.12.10-15.24.12:901][129]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.10-15.24.12:917][129]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.12.10-15.24.12:929][129]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.10-15.24.12:929][129]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.10-15.24.12:932][129]LogPakFile: Destroying PakPlatformFile
+[2025.12.10-15.24.13:785][129]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.10-15.24.13:835][129]LogExit: Exiting.
+[2025.12.10-15.24.13:872][129]Log file closed, 12/10/25 16:24:13
